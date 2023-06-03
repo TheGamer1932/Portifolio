@@ -1,7 +1,5 @@
 <h1 align="center">Portifólio - Tiago 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
-
 ---
 
 ## 💻 Sobre
